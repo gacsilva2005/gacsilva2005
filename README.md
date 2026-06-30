@@ -49,6 +49,21 @@
 
 ###
 
+ 
+### 📌 Principais Projetos
+ 
+**[Aquality](https://github.com/gacsilva2005/Aquality)** — Sistema de monitoramento inteligente de hidratação para atletas de alto rendimento, desenvolvido em parceria com o Hospital São Camilo e o IMT. Centraliza dados fisiológicos em tempo real e conta com um agente de IA para gerar recomendações personalizadas. `Java` `Spring Boot` `React/TypeScript` `Docker`
+ 
+**[AgenTEC](https://github.com/gacsilva2005/AgenTEC)** — Sistema de gerenciamento e agendamento de laboratórios, permitindo reservar horários e solicitar kits de materiais (vidrarias e reagentes) para experimentos. `HTML` `CSS` `JavaScript` `MySQL`
+ 
+**[webSENSEI](https://github.com/gacsilva2005/webSENSEI)** — Site institucional para uma academia de artes marciais, com seções de modalidades, professores, horários e galeria. `HTML` `CSS` `JavaScript`
+ 
+---
+
+###
+
+### 📊 Estatísticas do GitHub
+
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
