@@ -7,15 +7,11 @@
 </p>
 
 <div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript (básico)"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker (aprimorando)"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java (aprimorando)"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql (aprimorando)"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react (básico)"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring (aprimorando)"  />
   <img width="12" />
