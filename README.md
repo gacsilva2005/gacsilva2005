@@ -48,7 +48,7 @@
  
 ### 📌 Principais Projetos
  
-**[Aquality](https://github.com/gacsilva2005/Aquality)** — Sistema de monitoramento inteligente de hidratação para atletas de alto rendimento, desenvolvido em parceria com o Hospital São Camilo e o IMT. Centraliza dados fisiológicos em tempo real e conta com um agente de IA para gerar recomendações personalizadas. `Java` `Spring Boot` `React/TypeScript` `Docker`
+**[Aquality](https://github.com/gacsilva2005/Aquality)** — Sistema de monitoramento inteligente de hidratação para atletas de alto rendimento, desenvolvido em parceria com o Hospital São Camilo e o IMT (Instituto Mauá de Tecnologia). Centraliza dados fisiológicos em tempo real e conta com um agente de IA para gerar recomendações personalizadas. `Java` `Spring Boot` `React/TypeScript` `Docker`
  
 **[AgenTEC](https://github.com/gacsilva2005/AgenTEC)** — Sistema de gerenciamento e agendamento de laboratórios, permitindo reservar horários e solicitar kits de materiais (vidrarias e reagentes) para experimentos. `HTML` `CSS` `JavaScript` `MySQL`
  
